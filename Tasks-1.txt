@@ -9,5 +9,3 @@ replace Efeitos/Efeito-011.bmp by potion
 replace Efeitos/Efeito-012.bmp by SV Sandwitch
 
 begin applying Poke Replacements, at Rostos/
-
-merge from upstream always

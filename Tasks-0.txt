@@ -1,0 +1,2 @@
+replace Cenarios/Cenario-05.bmp by Naranja Academy
+replace Cenarios/Cenario-12.bmp by Loyal Three Monument
