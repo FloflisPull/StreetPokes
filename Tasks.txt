@@ -24,4 +24,6 @@ Seu Madruga =
 Quico = 
 Dona Neves = 
 
+add new logotype to README.md
+
 merge from upstream always
