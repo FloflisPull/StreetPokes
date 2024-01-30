@@ -1,2 +1,2 @@
 #!/bin/bash
-version="1.5.2A" ; export version
+version="1.5.3A" ; export version

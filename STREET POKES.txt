@@ -1,6 +1,6 @@
-STREET CHAVES - O LUTADOR DA VILA
+STREET POKES - O LUTADOR DA VILA
 
-V1.5.2A
+V1.5.3A
 
 
 -----------------------------------------
@@ -58,26 +58,36 @@ G - GOLPES (DURANTE O JOGO)
 LUTADORES
 -----------------------------------------
 
-CHAVES
+CHAVES (Lucario)
 SEU MADRUGA
-CHIQUINHA
+CHIQUINHA (Ogerpon)
 QUICO
-DONA FLORINDA
-PROFESSOR GIRAFALES
-SENHOR BARRIGA
-BRUXA DO 71
+DONA FLORINDA (Hitmonchan)
+PROFESSOR GIRAFALES (Blaziken)
+SENHOR BARRIGA (Snorlax)
+CLOTILDE (Gallade)
 PATY
-NHONHO
-GODINES
-SENHOR FURTADO
-JAIMINHO 
+NHONHO (Hariyama)
+GODINES (Meowskarada)
+SENHOR FURTADO (Hitmonlee)
+JAIMINHO (Hawlucha)
 DONA NEVES
-GLÓRIA
+GLÓRIA (Greninja)
 
 
 
 -----------------------------------------
-SITES E CONTATO
+SITES E CONTATO - FORK
+-----------------------------------------
+
+https://gamlr.gg
+
+mesquitadaniella@proton.me
+
+
+
+----------------------------------------
+SITES E CONTATO - ORIGINAL
 -----------------------------------------
 
 https://web.archive.org/web/20091027024001/http://www.geocities.com/cybergamba2003/index
